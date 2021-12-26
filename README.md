@@ -14,3 +14,7 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 
 ## 2. Summary Statistics on Suspension Coils
+
+![d2 total summary](https://github.com/LiShanDa2021/mechacar_statistical_analysis/blob/main/d2_total_summary.png?raw=true)
+
+![d2 lot summary](https://github.com/LiShanDa2021/mechacar_statistical_analysis/blob/main/d2_lot_summary.png?raw=true)
