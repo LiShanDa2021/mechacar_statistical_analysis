@@ -23,5 +23,12 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## 3. T-Tests on Suspension Coils
 
+![d3 all lots](https://github.com/LiShanDa2021/mechacar_statistical_analysis/blob/main/d3_all_lots.png?raw=true)
+
+![d3 lot 1](https://github.com/LiShanDa2021/mechacar_statistical_analysis/blob/main/d3_lot1.png?raw=true)
+
+![d3 lot 2](https://github.com/LiShanDa2021/mechacar_statistical_analysis/blob/main/d3_lot2.png?raw=true)
+
+![d3 lot 3](https://github.com/LiShanDa2021/mechacar_statistical_analysis/blob/main/d3_lot3.png?raw=true)
 
 In your README, create a subheading ## T-Tests on Suspension Coils, then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
