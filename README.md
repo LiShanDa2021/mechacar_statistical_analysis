@@ -1,6 +1,6 @@
 # Mechacar Statistical Analysis
 
-AutosRU's much anticipated Mechacar has run into production trouble and it is up to my team to fix it. To do so we ran several statistical analyses to see what was causing the trouble. The results of three statistical tests and the design of a proposed study to test Mechacar against the competition are outlined below.
+AutosRU's much anticipated Mechacar has run into production trouble and it is up to my team identify precisely where that trouble lies. To do so we ran several statistical analyses to see what was causing the trouble. The results of three statistical tests and the design of a proposed study to test Mechacar against the competition are outlined below.
 
 ## 1. Linear Regression to Predict MPG
 
