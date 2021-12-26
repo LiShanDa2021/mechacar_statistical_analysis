@@ -11,3 +11,10 @@ read.csv("Suspension_Coil.csv")
 suspension_df <- read.csv("Suspension_Coil.csv")
 total_summary <- suspension_df %>% summarize(Mean=mean(PSI), Median=median(PSI), Variance=var(PSI), SD=sd(PSI), .groups = 'keep')
 lot_summary <- suspension_df %>% group_by(Manufacturing_Lot) %>% summarize(Mean_PSI=mean(PSI), Median=median(PSI), Variance=var(PSI), SD=sd(PSI), .groups = 'keep') #create summary table by lot
+
+#deliverable 3
+
+t.test
+
+
+# code from module t.test(log10(sample_table$Miles_Driven),mu=mean(log10(population_table$Miles_Driven))) #compare sample versus population means
