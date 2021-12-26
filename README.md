@@ -52,15 +52,6 @@ Again, lot 3 seems to be the problem. With a significant p-value of .04 we rejec
 
 Now that we have identified the likely source of production problems for the MechaCar, our team would like to propose a statistical study to compare MechaCar to the competition. In our study we will compare one metric that will be of particular interest to the consumer: fuel-efficiency. Fuel-efficiency has become increasingly important and will only continue to do so.
 
-Our study will compare both the highway and city mpg of our vehicles against that of the competition. Our null hypothesis will be that both MechaCar's highway and city mpg will be statistically different 
-
-cost
-multiple linear regression
-
-safety
+Our study will compare both the highway and city mpg of our vehicles against that of the competition. Our null hypothesis will be that both MechaCar's highway and city mpg will be statistically different (in a good way hopefully). The alternative hypothesis would be that any difference in mpg -- highway or city -- is random. We would then go about collecting data on the city and highway mpg of cars from different manufacturers in the same class as that of the mechacar. Then we would perform a t.test -- the test used when testing whether two different datasets are different -- on the dataset of our mechacars and the dataset of the competition. From the p-value generated, we will be able to see whether there is a statistical difference.
 
 
-
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
